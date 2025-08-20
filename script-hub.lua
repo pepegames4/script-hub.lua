@@ -3,7 +3,7 @@ local gameId = game.PlaceId
 
 -- URLs de los scripts para cada juego.
 local scripts = {
-    [204354226] = "https://raw.githubusercontent.com/pepegames4/Iron-man-2-script.lua/main/main.lua", -- Iron Man 2 Simulator
+    [6097258548] = "https://raw.githubusercontent.com/pepegames4/Iron-man-2-script.lua/main/main.lua", -- Iron Man 2 Simulator
     [109852230] = "https://raw.githubusercontent.com/pepegames4/Kat-x-script.lua/main/main.lua", -- ID de Katana Simulator (ejemplo)
 }
 
